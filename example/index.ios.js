@@ -4,14 +4,15 @@
  */
 'use strict';
 
-var React = require('react-native');
+var React = require('react');
+var ReactNative = require('react-native');
 var {
     AppRegistry,
     StyleSheet,
     Text,
     TouchableOpacity,
     View,
-    } = React;
+    } = ReactNative;
 
 var ParallaxView = require('react-native-parallax-view');
 
